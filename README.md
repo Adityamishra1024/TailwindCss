@@ -1,2 +1,3 @@
 # TailwindCss
-This is TaialwindCss
+This is my first TaialwindCss
+Author - Aditya Mishra
